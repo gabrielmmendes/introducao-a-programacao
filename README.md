@@ -1,8 +1,7 @@
 # Introdução à Programação
-![image](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
 ## Universidade Federal de Goiás
 ### Instituto de Informática - Prof. Dr. Jacson Rodrigues Barbosa
+![image](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 #### Sumário
 1. Aprovado ou Reprovado
